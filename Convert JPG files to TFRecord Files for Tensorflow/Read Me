@@ -1,0 +1,1 @@
+This code was taken directly from the Google Tensorflow GitHub repository and was used to convert the collected images to recommended Tensorflow readible files knows as TFRecords.
